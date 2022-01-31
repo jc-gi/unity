@@ -1,0 +1,16 @@
+B:\UTR\Videogames\Workspace\clases\bin\Debug\net5.0\clases.exe
+B:\UTR\Videogames\Workspace\clases\bin\Debug\net5.0\clases.deps.json
+B:\UTR\Videogames\Workspace\clases\bin\Debug\net5.0\clases.runtimeconfig.json
+B:\UTR\Videogames\Workspace\clases\bin\Debug\net5.0\clases.runtimeconfig.dev.json
+B:\UTR\Videogames\Workspace\clases\bin\Debug\net5.0\clases.dll
+B:\UTR\Videogames\Workspace\clases\bin\Debug\net5.0\ref\clases.dll
+B:\UTR\Videogames\Workspace\clases\bin\Debug\net5.0\clases.pdb
+B:\UTR\Videogames\Workspace\clases\obj\Debug\net5.0\clases.GeneratedMSBuildEditorConfig.editorconfig
+B:\UTR\Videogames\Workspace\clases\obj\Debug\net5.0\clases.AssemblyInfoInputs.cache
+B:\UTR\Videogames\Workspace\clases\obj\Debug\net5.0\clases.AssemblyInfo.cs
+B:\UTR\Videogames\Workspace\clases\obj\Debug\net5.0\clases.csproj.CoreCompileInputs.cache
+B:\UTR\Videogames\Workspace\clases\obj\Debug\net5.0\clases.dll
+B:\UTR\Videogames\Workspace\clases\obj\Debug\net5.0\ref\clases.dll
+B:\UTR\Videogames\Workspace\clases\obj\Debug\net5.0\clases.pdb
+B:\UTR\Videogames\Workspace\clases\obj\Debug\net5.0\clases.genruntimeconfig.cache
+B:\UTR\Videogames\Workspace\clases\obj\Debug\net5.0\clases.csproj.AssemblyReference.cache

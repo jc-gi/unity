@@ -1,0 +1,16 @@
+B:\UTR\Videogames\Workspace\Concepts\obj\Debug\net5.0\Concepts.csprojAssemblyReference.cache
+B:\UTR\Videogames\Workspace\Concepts\obj\Debug\net5.0\Concepts.GeneratedMSBuildEditorConfig.editorconfig
+B:\UTR\Videogames\Workspace\Concepts\obj\Debug\net5.0\Concepts.AssemblyInfoInputs.cache
+B:\UTR\Videogames\Workspace\Concepts\obj\Debug\net5.0\Concepts.AssemblyInfo.cs
+B:\UTR\Videogames\Workspace\Concepts\obj\Debug\net5.0\Concepts.csproj.CoreCompileInputs.cache
+B:\UTR\Videogames\Workspace\Concepts\bin\Debug\net5.0\Concepts.exe
+B:\UTR\Videogames\Workspace\Concepts\bin\Debug\net5.0\Concepts.deps.json
+B:\UTR\Videogames\Workspace\Concepts\bin\Debug\net5.0\Concepts.runtimeconfig.json
+B:\UTR\Videogames\Workspace\Concepts\bin\Debug\net5.0\Concepts.runtimeconfig.dev.json
+B:\UTR\Videogames\Workspace\Concepts\bin\Debug\net5.0\Concepts.dll
+B:\UTR\Videogames\Workspace\Concepts\bin\Debug\net5.0\ref\Concepts.dll
+B:\UTR\Videogames\Workspace\Concepts\bin\Debug\net5.0\Concepts.pdb
+B:\UTR\Videogames\Workspace\Concepts\obj\Debug\net5.0\Concepts.dll
+B:\UTR\Videogames\Workspace\Concepts\obj\Debug\net5.0\ref\Concepts.dll
+B:\UTR\Videogames\Workspace\Concepts\obj\Debug\net5.0\Concepts.pdb
+B:\UTR\Videogames\Workspace\Concepts\obj\Debug\net5.0\Concepts.genruntimeconfig.cache

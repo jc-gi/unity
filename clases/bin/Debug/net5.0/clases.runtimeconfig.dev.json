@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ia-games\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ia-games\\.nuget\\packages"
+    ]
+  }
+}
